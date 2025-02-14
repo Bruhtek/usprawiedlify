@@ -56,7 +56,8 @@
 		'uczestnictwa w ważnym wydarzeniu',
 		'pomocy w organizacji wydarzenia',
 		'wizyty u fryzjera',
-		'wizyty u barbera'
+		'wizyty u barbera',
+		'odpoczynku po wycieczce'
 	]
 
 	const FUNNY_REASONS = [
@@ -76,8 +77,10 @@
 		'niewychodzenia z domu - boje się, że coś mi sie stanie',
 		'nieprzyjemnego kontaktu z agresywnym kibicem',
 		'dzisiejszych derbów Cracovii (mieszkam na Prokocimiu)',
+		'bliskiego spotkania noża z moim brzuchem (mieszkam na Ruczaju)',
+		'bliskiego kontaktu z maczetą (mieszkam na Kurdwanowie)',
 		'braku butów na zmianę (boje się dyrekcji)',
-		'kota na torbie',
+		'kota na torbie'
 	]
 
 	let noFunAllowed: boolean = $state(true);
